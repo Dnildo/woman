@@ -1,5 +1,5 @@
 # woman
-Linguagens utlizadas: HTML, CSS, JavaScript.
+Linguagens utizadas: HTML, CSS, JavaScript.
 Ferramentas Necessárias para rodar o projeto: Visual Stud Code   "https://code.visualstudio.com/Download"
 
 Este é um projeto pessoal;
